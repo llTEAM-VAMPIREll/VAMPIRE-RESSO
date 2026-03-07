@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/llTEAM_VAMPUll"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/lllTEAM_VAMPIRElll"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/llTEAM_VAMPUll"
+                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/lllTEAM_VAMPIRElll"
             ),
         ],
     ]
@@ -83,10 +83,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/llTEAM_VAMPUll"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/lllTEAM_VAMPIRElll"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url="https://t.me/llTEAM_VAMPUll"
+                text="•ᴄʟᴏɴᴇ•", url="https://t.me/lllTEAM_VAMPIRElll"
             ),
         ],
     ]
@@ -162,6 +162,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
         ],
     ]
     return buttons
+
 
 
 
