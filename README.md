@@ -24,7 +24,7 @@
    ```
  6. **📥 ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
    ```bash
-   git clone https://github.com/aarushxdbots/DARKCODER-V1 && cd DARKCODER-V1
+   git clone https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO && cd VAMPIRE-RESSO
    ```
  7. **📂 ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs**
    ```bash
