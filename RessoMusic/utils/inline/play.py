@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/lllTEAM_VAMPIRElll"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/DKS_LINK"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/lllTEAM_VAMPIRElll"
+                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/DKS_LINK"
             ),
         ],
     ]
@@ -83,10 +83,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/lllTEAM_VAMPIRElll"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/DKS_LINK"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url="https://t.me/lllTEAM_VAMPIRElll"
+                text="•ᴄʟᴏɴᴇ•", url="https://t.me/DKS_LINK"
             ),
         ],
     ]
