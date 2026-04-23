@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", "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"
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHAT", "https://t.me/+O44K7IV6SZsyNTFl")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DKS_LINK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHAT", "https://t.me/dhruvxupdates")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/dhruvxsupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -84,10 +84,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/k3cw8XS/IMG-20250103-174108-968.jpg"
+    "START_IMG_URL", "https://litter.catbox.moe/bi1h58.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/h9XdzGp/IMG-20250103-174105-243.jpg"
+    "PING_IMG_URL", "https://litter.catbox.moe/bi1h58.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://i.ibb.co/h9XdzGp/IMG-20250103-174105-243.jpg"
