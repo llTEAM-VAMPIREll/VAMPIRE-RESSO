@@ -65,7 +65,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/dhruvxupdates"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url=f"https://t.me/dhruvxsupport"
+                text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/dhruvxsupport"
             ),
         ],
     ]
@@ -86,7 +86,7 @@ def stream_markup(_, chat_id):
                 text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/dhruvxupdates"
             ),
             InlineKeyboardButton(
-                text="•ᴄʟᴏɴᴇ•", url="https://t.me/dhruvxsupport"
+                text="•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/dhruvxsupport"
             ),
         ],
     ]
